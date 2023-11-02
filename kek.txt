@@ -5,3 +5,4 @@ un
 seker
 hazirlanisi
 un su yumurta karistir
+2. olarak cikolata ekle
