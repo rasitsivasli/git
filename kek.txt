@@ -4,5 +4,9 @@ süt
 un
 seker
 hazirlanisi
-un su yumurta karistir
-firini isit
+1. un su yumurta karistir
+2. olarak cikolata ekle
+3. firini isit
+
+
+
